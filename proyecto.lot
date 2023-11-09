@@ -1,0 +1,28 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Desempeño de los sensores como sensores de humedad relativa}}{12}{table.caption.10}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Desempeño de los sensores como sensores de temperatura}}{13}{table.caption.11}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Características técnicas de los sensores de temperatura y humedad relativa}}{13}{table.caption.12}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Tabla comparativa de las características físicas y eléctricas de los display LCD y OLED}}{16}{table.caption.16}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Componentes seleccionados utilizados en el sistema}}{17}{table.caption.18}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Comparación de los distintos microcontroladores disponibles en el mercado}}{18}{table.caption.21}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Parámetros principales del MT3608}}{20}{table.caption.22}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Componentes de la fuente Step-up}}{21}{table.caption.24}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces Comparación de baterías Li-Ion y NiMH}}{22}{table.caption.26}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces Condiciones de funcionamiento del sistema la energía de respaldo}}{23}{table.caption.28}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces Niveles de voltajes de protección del DW01-P}}{26}{table.caption.32}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces Tiempo de retardo para la acción de las protecciones del DW01-P}}{26}{table.caption.33}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Lista de componentes de la placa principal del sistema}}{37}{table.caption.38}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Desempeño de las GPIOs del NodeMCU V3.0 como entradas y salidas}}{50}{table.caption.47}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Asignación y modo de operación de las GPIOs}}{51}{table.caption.48}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Modos de suspensión del ESP8266}}{59}{table.caption.53}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Especificaciones de tiempo del AHT15 para una transmisión I2C estándar}}{64}{table.caption.56}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

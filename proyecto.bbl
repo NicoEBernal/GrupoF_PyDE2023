@@ -1,0 +1,657 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{humedad}{thesis}{}
+      \name{author}{2}{}{%
+        {{hash=95bd611e1c663604ce6680a3bc3105f5}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi D.\bibnamedelimi Sued},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=eded3dc951a2ee06df68a9a6731c09be}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={O.\bibnamedelimi M.\bibnamedelimi Cordero},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Universidad Nacional Pedro Henríquez Ureña}%
+      }
+      \list{publisher}{1}{%
+        {Doctoral dissertation Universidad Nacional Pedro Henríquez Ureña}%
+      }
+      \strng{namehash}{1027b835f0951a764de087e800a6c69b}
+      \strng{fullhash}{1027b835f0951a764de087e800a6c69b}
+      \strng{bibnamehash}{1027b835f0951a764de087e800a6c69b}
+      \strng{authorbibnamehash}{1027b835f0951a764de087e800a6c69b}
+      \strng{authornamehash}{1027b835f0951a764de087e800a6c69b}
+      \strng{authorfullhash}{1027b835f0951a764de087e800a6c69b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estudio comparativo sobre el cumplimiento de la declaración de temperatura y humedad relativa en las etiquetas de los envases primarios y secundarios de productos farmacéuticos en farmacias comunitarias privadas del Ensanche Naco Distrito Nacional y el Sector La Toronja Santo Domingo Este Período junio 2019-enero 2020}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+    \endentry
+    \entry{anmat}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 12/06/2023)}
+      \field{title}{ANMAT: Disposición Nº 3475/2005}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.argentina.gob.ar/normativa/nacional/disposición-3475-2005-107238/texto
+      \endverb
+      \verb{url}
+      \verb https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-3475-2005-107238/texto
+      \endverb
+    \endentry
+    \entry{degra1}{article}{}
+      \name{author}{7}{}{%
+        {{hash=38dad8caf29383b03f44254fd833cd25}{%
+           family={Alsante},
+           familyi={A\bibinitperiod},
+           given={Karen\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=962fb7184da867fbded74aca2424092a}{%
+           family={Ando},
+           familyi={A\bibinitperiod},
+           given={Akemi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b2511230b4f56e57b6f46d3c293dc638}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+        {{hash=961b779ffad4c1ff151f45683e75863e}{%
+           family={Ensing},
+           familyi={E\bibinitperiod},
+           given={Janice},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0047a5bae19f97ecde05a2ca380a716b}{%
+           family={Hatajik},
+           familyi={H\bibinitperiod},
+           given={Todd\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=139fa18660952af6ac8627bc3a3c33bf}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b85af98b92131e7537b2762812b0ee63}{%
+           family={Tsuda},
+           familyi={T\bibinitperiod},
+           given={Yoshiko},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{4f5de260e701fea1b2e565b9dca7c961}
+      \strng{fullhash}{bfa9318d9c37af854f97e1250df35df8}
+      \strng{bibnamehash}{4f5de260e701fea1b2e565b9dca7c961}
+      \strng{authorbibnamehash}{4f5de260e701fea1b2e565b9dca7c961}
+      \strng{authornamehash}{4f5de260e701fea1b2e565b9dca7c961}
+      \strng{authorfullhash}{bfa9318d9c37af854f97e1250df35df8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The role of degradant profiling in active pharmaceutical ingredients and drug products}
+      \field{year}{2006}
+    \endentry
+    \entry{degra2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0dc0f219fe395c4a90e06b037656c144}{%
+           family={Bajaj},
+           familyi={B\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ad92fe25111d0f1fc7f0bf77b3707fd3}{%
+           family={Singla},
+           familyi={S\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a781e6a18a43826c7a54786ad7bbe2ad}{%
+           family={Sakhuja},
+           familyi={S\bibinitperiod},
+           given={Neha},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JAPS}%
+      }
+      \strng{namehash}{101750e9fa6848fb255523775064071a}
+      \strng{fullhash}{101750e9fa6848fb255523775064071a}
+      \strng{bibnamehash}{101750e9fa6848fb255523775064071a}
+      \strng{authorbibnamehash}{101750e9fa6848fb255523775064071a}
+      \strng{authornamehash}{101750e9fa6848fb255523775064071a}
+      \strng{authorfullhash}{101750e9fa6848fb255523775064071a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Pharmaceutical Science}
+      \field{title}{Stability Testing of Pharmaceutical Products}
+      \field{year}{2012}
+    \endentry
+    \entry{IoT1}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4d1263e7d767bd180b78bb6304bbebc9}{%
+           family={Al-Fuqaha},
+           familyi={A\bibinithyphendelim F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e31e9a938cc1cf28dd8b92dedf0dff13}{%
+           family={Guizani},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fb894afe61c86a63d9ab56fb3f186bf5}{%
+           family={Mohammadi},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b414de135a5f9087eb807b63e450fe3}{%
+           family={M.\bibnamedelimi Ayyash},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={M.\bibnamedelimi Aledhari},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={y},
+           prefixi={y\bibinitperiod}}}%
+      }
+      \strng{namehash}{407f62155f3b5605147cc69e797d5750}
+      \strng{fullhash}{e611f6e4227182a57b5c4757c7060afd}
+      \strng{bibnamehash}{e611f6e4227182a57b5c4757c7060afd}
+      \strng{authorbibnamehash}{e611f6e4227182a57b5c4757c7060afd}
+      \strng{authornamehash}{407f62155f3b5605147cc69e797d5750}
+      \strng{authorfullhash}{e611f6e4227182a57b5c4757c7060afd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Surveys & Tutorials}
+      \field{number}{4}
+      \field{title}{Internet of Things: A Survey on Enabling Technologies\, Protocols\, and Applications}
+      \field{volume}{17}
+      \field{year}{2015}
+      \field{pages}{2347\bibrangedash 2376}
+      \range{pages}{30}
+    \endentry
+    \entry{IoT2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4016748de40a6eddc1c105090ee1445b}{%
+           family={Atzori},
+           familyi={A\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=edfc38fc48a36e8383fc72e960e865e1}{%
+           family={Iera},
+           familyi={I\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=25c24c4e10923f308d51605cf317c067}{%
+           family={Morabito},
+           familyi={M\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{fullhash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{bibnamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authorbibnamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authornamehash}{d555c18a15d1f74d97fe275b8a534091}
+      \strng{authorfullhash}{d555c18a15d1f74d97fe275b8a534091}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Networks}
+      \field{number}{15}
+      \field{title}{The Internet of Things: A Survey}
+      \field{volume}{54}
+      \field{year}{2010}
+      \field{pages}{2787\bibrangedash 2805}
+      \range{pages}{19}
+    \endentry
+    \entry{IoT3}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3606253a12c3dc6828657009e03356dd}{%
+           family={Gubbi},
+           familyi={G\bibinitperiod}}}%
+        {{hash=6abca9e8aab968008eb463339c1e2366}{%
+           family={Buyya},
+           familyi={B\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7521f5f904d523bf13fa726cbde7b8f8}{%
+           family={Marusic},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=600c41166ed86ca0f41b4fddebf81daf}{%
+           family={Palaniswami},
+           familyi={P\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{56b10530b376d4fde9d3f13bf72e6279}
+      \strng{fullhash}{61f89b3e1605d0074624e37973c02b39}
+      \strng{bibnamehash}{61f89b3e1605d0074624e37973c02b39}
+      \strng{authorbibnamehash}{61f89b3e1605d0074624e37973c02b39}
+      \strng{authornamehash}{56b10530b376d4fde9d3f13bf72e6279}
+      \strng{authorfullhash}{61f89b3e1605d0074624e37973c02b39}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Generation Computer Systems}
+      \field{number}{29}
+      \field{title}{Internet of Things (IoT): A Vision and Architectural Elements and Future Directions}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{pages}{1645\bibrangedash 1660}
+      \range{pages}{16}
+    \endentry
+    \entry{telegram1}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 12/06/2023)}
+      \field{title}{Telegram}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.telegram.org/faq
+      \endverb
+      \verb{url}
+      \verb https://www.telegram.org/faq
+      \endverb
+    \endentry
+    \entry{telegram2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9a7d858c91c74377c0dad0575649f89b}{%
+           family={Antoni},
+           familyi={A\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a7d858c91c74377c0dad0575649f89b}
+      \strng{fullhash}{9a7d858c91c74377c0dad0575649f89b}
+      \strng{bibnamehash}{9a7d858c91c74377c0dad0575649f89b}
+      \strng{authorbibnamehash}{9a7d858c91c74377c0dad0575649f89b}
+      \strng{authornamehash}{9a7d858c91c74377c0dad0575649f89b}
+      \strng{authorfullhash}{9a7d858c91c74377c0dad0575649f89b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Internet of Things Magazine}
+      \field{number}{1}
+      \field{title}{Telegram Bots for IoT Enabled Devices}
+      \field{volume}{3}
+      \field{year}{2020}
+      \field{pages}{36\bibrangedash 40}
+      \range{pages}{5}
+    \endentry
+    \entry{OneWire_doc}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=49bb8003e13858ccc88796bbaff2e796}{%
+           family={Linke},
+           familyi={L\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Maxim Integrated}%
+      }
+      \strng{namehash}{49bb8003e13858ccc88796bbaff2e796}
+      \strng{fullhash}{49bb8003e13858ccc88796bbaff2e796}
+      \strng{bibnamehash}{49bb8003e13858ccc88796bbaff2e796}
+      \strng{authorbibnamehash}{49bb8003e13858ccc88796bbaff2e796}
+      \strng{authornamehash}{49bb8003e13858ccc88796bbaff2e796}
+      \strng{authorfullhash}{49bb8003e13858ccc88796bbaff2e796}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 9/5/2023)}
+      \field{title}{Overview of 1-Wire Technology and Its Use}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://www.analog.com/media/en/technical-documentation/tech-articles/guide-to-1wire-communication--maxim-integrated.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.analog.com/media/en/technical-documentation/tech-articles/guide-to-1wire-communication--maxim-integrated.pdf
+      \endverb
+    \endentry
+    \entry{I2C_doc}{manual}{}
+      \list{organization}{1}{%
+        {NXP Semiconductors}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 9/5/2023)}
+      \field{title}{I2C-bus specification and user manual}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.nxp.com/docs/en/user-guide/UM10204.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nxp.com/docs/en/user-guide/UM10204.pdf
+      \endverb
+    \endentry
+    \entry{HD44780}{manual}{}
+      \list{organization}{1}{%
+        {HITACHI Semiconductor}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{number}{HD44780U}
+      \field{title}{Dot Matrix Liquid Crystal Display Controller/Drive}
+    \endentry
+    \entry{PCF8574}{manual}{}
+      \list{organization}{1}{%
+        {NXP Semiconductors}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{note}{Rev. 5}
+      \field{number}{PCF8574; PCF8574A}
+      \field{title}{Remote 8-bit I/O expander for I2C-bus with interrupt}
+      \field{year}{2013}
+    \endentry
+    \entry{SSD1306}{manual}{}
+      \list{organization}{1}{%
+        {SOLOMON SYSTECH}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{note}{Rev. 1.1}
+      \field{number}{SSD1306}
+      \field{title}{128 x 64 Dot Matrix OLED/PLED Segment/Common Driver with Controller}
+      \field{year}{2008}
+    \endentry
+    \entry{LCD1602}{manual}{}
+      \list{organization}{1}{%
+        {Crystalfontz America, Inc.}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{number}{CFAH1602A-AGB-JP}
+    \endentry
+    \entry{OLED}{manual}{}
+      \list{organization}{1}{%
+        {WINSTAR}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{number}{WEA012864D-03}
+      \field{title}{OLED SPECIFICATION}
+    \endentry
+    \entry{ArduinoMKR}{manual}{}
+      \list{organization}{1}{%
+        {Arduino}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Rev. 3}
+      \field{number}{MKR WiFi 1010}
+      \field{title}{Arduino® MKR WiFi 1010}
+      \field{year}{2022}
+    \endentry
+    \entry{ESP8266}{manual}{}
+      \list{organization}{1}{%
+        {ESPRESSIF}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Rev. 7.0}
+      \field{number}{ESP8266}
+      \field{title}{ESP8266EX Datasheet}
+      \field{year}{2023}
+    \endentry
+    \entry{ESP8285}{manual}{}
+      \list{organization}{1}{%
+        {ESPRESSIF}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Rev. 2.3}
+      \field{number}{ESP8285}
+      \field{title}{ESP8266EX Datasheet}
+      \field{year}{2023}
+    \endentry
+    \entry{ESP32}{manual}{}
+      \list{organization}{1}{%
+        {ESPRESSIF}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Rev. 4.3}
+      \field{number}{ESP32}
+      \field{title}{ESP32 Series Datasheet}
+      \field{year}{2023}
+    \endentry
+    \entry{MT3608}{manual}{}
+      \list{organization}{1}{%
+        {Aerosemi Technology Co.}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{note}{V. 1.0}
+      \field{number}{MT3608}
+      \field{title}{MT3608 High Efficiency 1.2MHz 2A Step Up Converter}
+    \endentry
+    \entry{SelecBat}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=2c29bf6f697b27998dad5c2def172fb6}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Microchip Technology Inc.}%
+      }
+      \strng{namehash}{2c29bf6f697b27998dad5c2def172fb6}
+      \strng{fullhash}{2c29bf6f697b27998dad5c2def172fb6}
+      \strng{bibnamehash}{2c29bf6f697b27998dad5c2def172fb6}
+      \strng{authorbibnamehash}{2c29bf6f697b27998dad5c2def172fb6}
+      \strng{authornamehash}{2c29bf6f697b27998dad5c2def172fb6}
+      \strng{authorfullhash}{2c29bf6f697b27998dad5c2def172fb6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{AN1088}
+      \field{title}{Selecting the Right Battery System For Cost-Sensitive Portable Applications While Maintaining Excellent Quality}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://ww1.microchip.com/downloads/en/Appnotes/AN1088-App-Note-0001088.pdf
+      \endverb
+      \verb{url}
+      \verb https://ww1.microchip.com/downloads/en/Appnotes/AN1088-App-Note-0001088.pdf
+      \endverb
+    \endentry
+    \entry{LibroBat}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5abffe6c41007da37d28ede8ebb0eb8d}{%
+           family={Kiehne},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Marcel Dekker, Inc.}%
+      }
+      \strng{namehash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \strng{fullhash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \strng{bibnamehash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \strng{authorbibnamehash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \strng{authornamehash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \strng{authorfullhash}{5abffe6c41007da37d28ede8ebb0eb8d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{BATTERY TECHNOLOGY HANDBOOK}
+      \field{year}{2003}
+    \endentry
+    \entry{TP4056}{manual}{}
+      \list{organization}{1}{%
+        {Top Power ASIC}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{note}{Rev 2.0}
+      \field{number}{TP4056}
+      \field{title}{A Standalone Linear Li-lon Battery Charger with Thermal Regulation}
+      \verb{urlraw}
+      \verb http://toppwr.com/uploadfile/file/20230304/640301eae1260.pdf
+      \endverb
+      \verb{url}
+      \verb http://toppwr.com/uploadfile/file/20230304/640301eae1260.pdf
+      \endverb
+    \endentry
+    \entry{DW01-P}{manual}{}
+      \list{organization}{1}{%
+        {Fortune}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{note}{Rev. 1.6}
+      \field{number}{DW01-P}
+      \field{title}{One Cell Lithium-ion/Polymer Battery Protection IC transceiver}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.ic-fortune.com/upload/Download/DW01-P-DS-16_EN_56033.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ic-fortune.com/upload/Download/DW01-P-DS-16_EN_56033.pdf
+      \endverb
+    \endentry
+    \entry{FS8205A}{manual}{}
+      \list{organization}{1}{%
+        {Fortune}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{note}{Rev. 1.2}
+      \field{number}{FS8205A}
+      \field{title}{Dual N-Channel Enhancement Mode Power MOSFET}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
+      \endverb
+    \endentry
+    \entry{libreria}{online}{}
+      \list{organization}{1}{%
+        {Include Poetry}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 18/07/2023)}
+      \field{title}{Librerías para C++}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.include-poetry.com/Code/C++/Introduccion/Librerias/
+      \endverb
+      \verb{url}
+      \verb https://www.include-poetry.com/Code/C++/Introduccion/Librerias/
+      \endverb
+    \endentry
+    \entry{ESPpin}{online}{}
+      \list{organization}{1}{%
+        {Random Nerds Tutorial}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Accedido: 19/07/2023)}
+      \field{title}{ESP8266 Pinout Reference: Which GPIO pins should you use?}
+      \verb{urlraw}
+      \verb https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+      \endverb
+      \verb{url}
+      \verb https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
+      \endverb
+    \endentry
+    \entry{wifioff}{software}{}
+      \name{author}{1}{}{%
+        {{hash=25e091aaf46cde7d801f5266b9929301}{%
+           family={{Dirk O. Kaar}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{25e091aaf46cde7d801f5266b9929301}
+      \strng{fullhash}{25e091aaf46cde7d801f5266b9929301}
+      \strng{bibnamehash}{25e091aaf46cde7d801f5266b9929301}
+      \strng{authorbibnamehash}{25e091aaf46cde7d801f5266b9929301}
+      \strng{authornamehash}{25e091aaf46cde7d801f5266b9929301}
+      \strng{authorfullhash}{25e091aaf46cde7d801f5266b9929301}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{9}
+      \field{title}{arduino-esp8266/wifioff}
+      \field{version}{3.1.2}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/dok-net/arduino-esp8266/tree/wifioff
+      \endverb
+      \verb{url}
+      \verb https://github.com/dok-net/arduino-esp8266/tree/wifioff
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

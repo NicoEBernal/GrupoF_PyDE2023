@@ -1,0 +1,1302 @@
+PWD c:\Users\JUAN E\Desktop\Proyecto y Diseño FINAL\Informe\Copias_Informe\GrupoF_7_11
+INPUT C:\Users\JUAN E\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\JUAN E\Desktop\Proyecto y Diseño FINAL\Informe\Copias_Informe\GrupoF_7_11\proyecto.tex
+OUTPUT proyecto.log
+INPUT .\proyectoelectronico.cls
+INPUT proyectoelectronico.cls
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\memoir.cls
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\memoir.cls
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\xpatch\xpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\mem11.clo
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\mem11.clo
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\mem11.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\delarray.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\delarray.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2\datetime2.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2\datetime2.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish-ascii.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish-ascii.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-spanish\datetime2-spanish-ascii.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2\datetime2-calc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\datetime2\datetime2-calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\nomencl\nomencl.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\nomencl\nomencl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\koma-script\scrlogo.sty
+OUTPUT proyecto.nlo
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\dvipsnam.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\svg\svg.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\svg\svg.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\transparent\transparent.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\transparent\transparent.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\transparent\transparent-nometadata.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\caption-memoir.sto
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\circuitikz\circuitikz.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\circuitikz\circuitikz.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybending.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulebending.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmodulenonlineartransformations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibrarycurvilinear.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcirc.defines.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircutils.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircpath.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircshapes.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircmonopoles.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircbipoles.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcirctripoles.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircquadpoles.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircmultipoles.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcirclabel.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircvoltage.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcirccurrent.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\circuitikz\pgfcircflow.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\verbatimbox\verbatimbox.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\verbatimbox\verbatimbox.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\readarray\readarray.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\readarray\readarray.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\forloop\forloop.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\forloop\forloop.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\listofitems\listofitems.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\listofitems\listofitems.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\newfloat\newfloat.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\newfloat\newfloat.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\listings\listings.cfg
+INPUT .\codigo\definicion_de_ASM.tex
+INPUT .\codigo\definicion_de_ASM.tex
+INPUT .\codigo\definicion_de_ASM.tex
+INPUT .\codigo\definicion_de_ASM.tex
+INPUT codigo\definicion_de_ASM.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\sidecap\sidecap.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.bbx
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.bbx
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric-comp.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.cbx
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.cbx
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\biblatex-ieee\ieee.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\cbx\numeric-comp.cbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT .\configuracion.tex
+INPUT .\configuracion.tex
+INPUT configuracion.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\multirow\bigstrut.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\multirow\bigstrut.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\forest\forest.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\forest\forest.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.misc.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.symbols.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.symbols.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.symbols.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.symbols.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.arrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.arrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.arrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.arrows.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.callouts.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.callouts.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.callouts.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.callouts.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.multipart.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.multipart.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.multipart.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.multipart.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfit.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfit.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryintersections.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryintersections.code.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\elocalloc\elocalloc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\elocalloc\elocalloc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\inlinedef\inlinedef.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\inlinedef\inlinedef.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\marvosym\marvosym.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\marvosym\marvosym.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\libertine.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\libertine.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\LinLibertine_I.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\LinLibertine_I.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\LinLibertine_I.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\LinLibertine_I.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\LinLibertine_I.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\libertinust1math.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\libertinust1math.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT .\proyecto.aux
+INPUT .\proyecto.aux
+INPUT proyecto.aux
+OUTPUT proyecto.aux
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT .\proyecto.out
+INPUT .\proyecto.out
+INPUT proyecto.out
+INPUT proyecto.out
+OUTPUT proyecto.pdf
+INPUT .\proyecto.out
+INPUT .\proyecto.out
+OUTPUT proyecto.out
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Program Files\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT proyecto.bcf
+INPUT proyecto.bbl
+INPUT .\proyecto.bbl
+INPUT .\proyecto.bbl
+INPUT .\proyecto.bbl
+INPUT proyecto.bbl
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT .\imagenes\imagenes_caratula\izquierda.eps
+INPUT .\imagenes\imagenes_caratula\izquierda.eps
+INPUT .\imagenes\imagenes_caratula\izquierda.eps
+INPUT .\imagenes\imagenes_caratula\izquierda.eps
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda.eps
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\izquierda-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha.eps
+INPUT .\imagenes\imagenes_caratula\derecha.eps
+INPUT .\imagenes\imagenes_caratula\derecha.eps
+INPUT .\imagenes\imagenes_caratula\derecha.eps
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha.eps
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT .\imagenes\imagenes_caratula\derecha-eps-converted-to.pdf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-sc-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-sc-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-sc-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_tlukpt.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_nh77jq.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_76gpa5.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_7grukw.enc
+INPUT .\contenido\resumen.tex
+INPUT .\contenido\resumen.tex
+INPUT contenido\resumen.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTBI-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTBI-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTBI-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_ki75ao.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT .\contenido\abstract.tex
+INPUT .\contenido\abstract.tex
+INPUT contenido\abstract.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT .\contenido\agradecimientos.tex
+INPUT .\contenido\agradecimientos.tex
+INPUT contenido\agradecimientos.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT .\proyecto.toc
+INPUT .\proyecto.toc
+INPUT proyecto.toc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ts1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-ts1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-ts1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_naooyc.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertinust1math\libusMI.enc
+INPUT .\proyecto.lof
+INPUT .\proyecto.lof
+INPUT proyecto.lof
+INPUT .\proyecto.los
+INPUT .\proyecto.los
+INPUT proyecto.los
+INPUT .\proyecto.lot
+INPUT .\proyecto.lot
+INPUT proyecto.lot
+INPUT .\proyecto.lol
+INPUT .\proyecto.lol
+INPUT proyecto.lol
+INPUT .\contenido\nomenclatura.tex
+INPUT .\contenido\nomenclatura.tex
+INPUT contenido\nomenclatura.tex
+INPUT .\contenido\1_introduccion.tex
+INPUT .\contenido\1_introduccion.tex
+INPUT .\contenido\1_introduccion.tex
+INPUT .\contenido\1_introduccion.tex
+INPUT contenido\1_introduccion.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\t1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumT-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\tex\latex\libertine\ts1linuxbiolinumt-tlf.fd
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-ts1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumT-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_25tcsq.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTB-tlf-ts1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-ts1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_mmutss.enc
+INPUT .\contenido\2_Descripcion_Proy.tex
+INPUT .\contenido\2_Descripcion_Proy.tex
+INPUT .\contenido\2_Descripcion_Proy.tex
+INPUT .\contenido\2_Descripcion_Proy.tex
+INPUT contenido\2_Descripcion_Proy.tex
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\imagenes\Descripcion\Diagrama bloques general_V2.drawio.png
+INPUT .\contenido\3_Seleccion_Comp.tex
+INPUT .\contenido\3_Seleccion_Comp.tex
+INPUT .\contenido\3_Seleccion_Comp.tex
+INPUT .\contenido\3_Seleccion_Comp.tex
+INPUT contenido\3_Seleccion_Comp.tex
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\esquemaOneWire.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esquema_I2C.png
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTB-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTB-tlf-t1--base.tfm
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\SensorAHT10.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\LCD.png
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDF.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\OLEDT.jpg
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT .\imagenes\IMG_Hardware\MT3608.png
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertinust1math\libusMR.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertinust1math\libusEX.enc
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\FactorCorr.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\Algoritmo de Carga LiIon Español.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\imagenes\IMG_Hardware\CircCarga.png
+INPUT .\contenido\4_Diseño de Hardware.tex
+INPUT .\contenido\4_Diseño de Hardware.tex
+INPUT .\contenido\4_Diseño de Hardware.tex
+INPUT .\contenido\4_Diseño de Hardware.tex
+INPUT contenido\4_Diseño de Hardware.tex
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\\IMG_Hardware\Perifericos.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT .\imagenes\IMG_Hardware\Esq_Prot_I2C.png
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTBO-tlf-t1.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT .\imagenes\IMG_Hardware\loadsharing.png
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertinust1math\libusSYM.enc
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinBiolinumTBO-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinBiolinumTBO-tlf-t1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\imagenes\\IMG_Hardware\PCB_VFinal.png
+INPUT .\contenido\7_Gabinete.tex
+INPUT .\contenido\7_Gabinete.tex
+INPUT .\contenido\7_Gabinete.tex
+INPUT .\contenido\7_Gabinete.tex
+INPUT contenido\7_Gabinete.tex
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_frente.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Tapa_posterior.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\\Gabinete\\Caja_frente.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_inferior.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Caja_LatDerecho.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_frente.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\imagenes\Gabinete\Boton_superior.png
+INPUT .\contenido\5_Software.tex
+INPUT .\contenido\5_Software.tex
+INPUT .\contenido\5_Software.tex
+INPUT .\contenido\5_Software.tex
+INPUT contenido\5_Software.tex
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\VSC.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\Plat.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\esquemaPlatformIO.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Temp.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Pul.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Muestreo.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\Software\DFlujo\DF_Comandos.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\Perfil de carga_ModoSusp.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\imagenes\\Software\\DFlujo\DF_FunciónWakeup.drawio.png
+INPUT .\contenido\6_Resultados.tex
+INPUT .\contenido\6_Resultados.tex
+INPUT .\contenido\6_Resultados.tex
+INPUT .\contenido\6_Resultados.tex
+INPUT contenido\6_Resultados.tex
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_r.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_f.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\Resultados\I2C\t_RC.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\ConsumoLightSleepF.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\CircuitoAconGral.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\\Resultados\\Autonomia\TensiónBateria24hr.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\EsquematicoProto.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\pcbversion1.png
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\vista3dversion1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteextv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\gabineteintv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\bienvenidabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\consultabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\alarmabotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\IMG_Hardware\testbotv1.jpg
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_cobre2.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\Vista anterior PCB_componentes.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaposteriorPCB_cobre.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\imagenes\Resultados\PCBfinal\VistaPosteriorPCB_comp.png
+INPUT .\contenido\conclusiones.tex
+INPUT .\contenido\conclusiones.tex
+INPUT .\contenido\conclusiones.tex
+INPUT .\contenido\conclusiones.tex
+INPUT contenido\conclusiones.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ts1.tfm
+INPUT .\apendices\A_apendice_ejemplo.tex
+INPUT .\apendices\A_apendice_ejemplo.tex
+INPUT apendices\A_apendice_ejemplo.tex
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\vf\public\libertine\LinLibertineTI-tlf-ts1.vf
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\tfm\public\libertine\LinLibertineTI-tlf-ts1--base.tfm
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\enc\dvips\libertine\lbtn_u7qtuy.enc
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Caja de busqueda.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Chat.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Newbot.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\Nombre.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\imagenes\Apendice\Bot\username y token.png
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Tapa Gabinete(V2.0).pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+INPUT .\ArchivosPDF\Dimensiones Caja_Boton.pdf
+OUTPUT proyecto.toc
+OUTPUT proyecto.lof
+OUTPUT proyecto.los
+OUTPUT proyecto.lot
+OUTPUT proyecto.lol
+INPUT proyecto.aux
+INPUT .\proyecto.out
+INPUT .\proyecto.out
+INPUT proyecto.run.xml
+OUTPUT proyecto.run.xml
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertinust1math\LibertinusT1Math.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertinust1math\LibertinusT1Math.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumT.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumT.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumTB.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumTB.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumTBO.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinBiolinumTBO.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineT.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineT.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTB.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTB.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTBI.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTBI.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTI.pfb
+INPUT C:\Users\JUAN E\AppData\Roaming\MiKTeX\fonts\type1\public\libertine\LinLibertineTI.pfb

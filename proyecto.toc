@@ -1,0 +1,82 @@
+\changetocdepth {2}
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice general}{xi}{section*.1}%
+\contentsline {chapter}{\'{I}ndice de figuras}{xiii}{section*.2}%
+\contentsline {chapter}{Índice de fotografías}{xv}{section*.3}%
+\contentsline {chapter}{\'{I}ndice de tablas}{xv}{section*.4}%
+\contentsline {chapter}{Índice de listados}{xvi}{section*.5}%
+\contentsline {chapter}{\chapternumberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Aspectos generales}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Normativa}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}ANMAT: Disposición N.º 3475/2005}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}IRAM 80101:2001}{2}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}IRAM 37018-1:1998 }{2}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Objetivos}{2}{section.1.3}%
+\contentsline {chapter}{\chapternumberline {2}Marco teórico}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Consideraciones Generales}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Estructura General}{6}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Definiciones}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Internet de las cosas}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Telegram}{8}{subsection.2.2.2}%
+\contentsline {chapter}{\chapternumberline {3}Selección de componentes}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sensor de Temperatura y Humedad}{9}{section.3.1}%
+\contentsline {subsubsection}{Criterios de selección}{11}{section*.9}%
+\contentsline {section}{\numberline {3.2}Interfaz de usuario: Display}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Microcontrolador}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Criterios de selección}{16}{subsection.3.3.1}%
+\contentsline {subsubsection}{Disponibilidad de puertos}{16}{section*.17}%
+\contentsline {subsubsection}{Requerimientos de conectividad}{17}{section*.19}%
+\contentsline {subsubsection}{Requerimientos Energéticos}{17}{section*.20}%
+\contentsline {subsection}{\numberline {3.3.2}Opciones de microcontrolador}{18}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Fuente Step-up}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sistema de energía de reserva}{21}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Batería}{21}{subsection.3.5.1}%
+\contentsline {subsubsection}{Selección de la batería}{21}{section*.25}%
+\contentsline {subsubsection}{Cálculo de capacidad}{22}{section*.27}%
+\contentsline {subsection}{\numberline {3.5.2}Circuito de carga}{24}{subsection.3.5.2}%
+\contentsline {chapter}{\chapternumberline {4}Diseño de Hardware}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}LEDs, buzzer y pulsador}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Comunicación I2C}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.3}\textit {Load Sharing}}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Esquemático y PCB}{35}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}Diseño de gabinete}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tapa Frontal}{40}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Caja}{41}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Botón}{42}{section.5.3}%
+\contentsline {chapter}{\chapternumberline {6}Software}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Entorno de desarrollo}{45}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Visual Studio Code}{45}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}PlatformIO}{46}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Estructura del programa}{47}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Requerimientos de Librerías}{48}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}Inicialización y configuración de E/S digitales}{49}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Rutinas de Servicio a la Interrupción (RSI)}{51}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}RSI: Temporizador}{51}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}RSI:Pulsador}{53}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Control y monitoreo continuo}{54}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Atención de consultas de Telegram}{55}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Configuración de bot}{55}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Rutina de atención a solicitudes}{55}{subsection.6.6.2}%
+\contentsline {section}{\numberline {6.7}Optimización de energía}{58}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Display}{61}{section.6.8}%
+\contentsline {chapter}{\chapternumberline {7}Resultados}{63}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Desempeño del protocolo I2C a larga distancia}{63}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Determinación del $t_{r}$ y $t_{f}$ del bus}{64}{subsection.7.1.1}%
+\contentsline {subsubsection}{Tiempo de subida $(t_r)$}{64}{section*.57}%
+\contentsline {subsubsection}{Tiempo de bajada $(t_f)$}{65}{section*.59}%
+\contentsline {subsubsection}{Capacidad total del bus}{66}{section*.61}%
+\contentsline {section}{\numberline {7.2}Autonomía del sistema}{67}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Consumo de corriente durante el modo de suspensión}{67}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Ensayo de monitoreo de tensión}{68}{subsection.7.2.2}%
+\contentsline {subsubsection}{Circuito adaptador de voltaje}{68}{section*.64}%
+\contentsline {subsubsection}{Resultados del ensayo}{70}{section*.66}%
+\contentsline {section}{\numberline {7.3}Diseño y elaboración de la primera versión del prototipo}{70}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Diseño de PCB y montaje}{71}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Interfaz de Telegram}{74}{subsection.7.3.2}%
+\contentsline {section}{\numberline {7.4}Diseño y elaboración de la versión final}{77}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Elaboración y diseño del PCB}{77}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Elaboración y diseño del gabinete}{79}{subsection.7.4.2}%
+\contentsline {chapter}{\chapternumberline {8}Conclusiones}{81}{chapter.8}%
+\contentsline {chapter}{Bibliografía}{83}{section*.80}%
+\contentsline {appendix}{\chapternumberline {A}Creación de bot en Telegram}{85}{appendix.Alph1}%
+\contentsline {appendix}{\chapternumberline {B}Gabinete: Dimensiones}{89}{appendix.Alph2}%

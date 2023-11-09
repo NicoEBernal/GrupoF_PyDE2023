@@ -1,0 +1,63 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Diagrama de bloques general del sistema de monitoreo}}{6}{figure.caption.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Esquema general del protocolo de comunicación One Wire}}{10}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Esquema de conexión del protocolo de comunicación I2C}}{11}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Sensor digital de temperatura y humedad relativa AHT10}}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces LCD de 16x2 en conjunto con el módulo de comunicación I2C (PCF8574)}}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Display OLED de 128x64 píxeles}}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Esquemático de la fuente Step-up}}{20}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Factor de corrección por el uso de la fuente Step-up}}{24}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Algoritmo de carga para baterías Li-Ion}}{25}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Esquemático del circuito de carga para batería Li-Ion}}{25}{figure.caption.31}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Circuito de conexión de LEDs, \textit {buzzer} y pulsador del sistema}}{31}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de conexión I2C}}{33}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Configuración ``Load Sharing''}}{35}{figure.caption.36}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Esquemático completo de la plaqueta principal del sistema}}{36}{figure.caption.37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Tapa de Gabinete: Vista frontal}}{40}{figure.caption.39}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Tapa de Gabinete: Vista posterior}}{41}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Caja de Gabinete: Vista Frontal}}{41}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Caja de gabinete: Aberturas}}{42}{figure.caption.42}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces Caja: Vista inferior}}{42}{subfigure.4.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces Caja: Vista lateral derecha}}{42}{subfigure.4.2}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Botón de gabinete}}{42}{figure.caption.43}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces Botón: Vista frontal}}{42}{subfigure.5.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces Caja: Vista superior}}{42}{subfigure.5.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Logo de Visual Studio Code}}{46}{figure.caption.44}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Logo de PlatformIO}}{46}{figure.caption.45}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Diagrama de bloques para carga de códigos en plataformas}}{47}{figure.caption.46}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Diagrama de Flujo de la RSI Temporizador}}{52}{figure.caption.49}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Diagrama de Flujo de la RSI Pulsador}}{53}{figure.caption.50}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Diagrama de Flujo de la Rutina de Muestreo-Control continuo de temperatura y humedad relativa para cada uno de los equipos refrigerantes}}{54}{figure.caption.51}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Diagrama de Flujo de la Rutina de atención de comandos por Telegram}}{56}{figure.caption.52}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Algoritmo del perfil de carga ante la ausencia de la fuente de alimentación principal}}{59}{figure.caption.54}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Diagrama de flujo de la rutina realizada luego del modo de suspensión}}{61}{figure.caption.55}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Tiempo de subida de la señal SCL}}{65}{figure.caption.58}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Tiempo de bajada de la señal SCL}}{65}{figure.caption.60}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Constante de tiempo $\tau $ medida de la señal SCL}}{66}{figure.caption.62}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Corriente de consumo del microcontrolador con modo de suspensión Light-Sleep Forzado}}{68}{figure.caption.63}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Circuito adaptador de voltaje para ensayo de autonomía}}{69}{figure.caption.65}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Evolución del voltaje de la batería en función del tiempo durante 24 horas}}{70}{figure.caption.67}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Circuito completo de la primera versión del sistema}}{71}{figure.caption.68}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Vista inferior del PCB}}{72}{figure.caption.69}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Vista 3D de la placa}}{73}{figure.caption.70}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Interfaz de usuario del bot de Telegram(1)}}{75}{figure.caption.73}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Interfaz de usuario del bot de Telegram(2)}}{76}{figure.caption.74}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Capa de cobre de la vista anterior del PCB}}{78}{figure.caption.75}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Dispoción de componentes de la vista anterior del PCB}}{78}{figure.caption.76}%
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Capa de cobre de la vista posterior del PCB}}{79}{figure.caption.77}%
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Dispoción de componentes de la vista posterior del PCB}}{79}{figure.caption.78}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Búsqueda de BotFather en el buscador de Telegram}}{85}{figure.caption.81}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Espacio de conversación con BotFather}}{86}{figure.caption.82}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Inicio de creación de bot}}{86}{figure.caption.83}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Ingreso de nombre del bot}}{87}{figure.caption.84}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Ingreso de \textit {username} del bot}}{87}{figure.caption.85}%
+\addvspace {10\p@ }
